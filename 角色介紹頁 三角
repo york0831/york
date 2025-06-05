@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>三角初華 - Ave Mujica 成員介紹</title>
+  <style>
+    body { background-color: #000; color: #fff; font-family: sans-serif; margin: 20px; }
+    h1 { color: #880000; }
+    img { display: block; margin: 20px auto; width: 250px; border: 3px solid #880000; }
+    .button { background-color: #880000; color: #fff; padding: 8px 12px; text-decoration: none; display: inline-block; border: none; margin-top: 20px; }
+    a.button:hover { background-color: #aa0000; }
+    p { max-width: 600px; margin: 0 auto; line-height: 1.5; }
+  </style>
+</head>
+<body>
+  <h1>三角 初華 (Doloris)</h1>
+  <img src="images/uika.jpg" alt="三角初華">
+  <p>三角初華是 Ave Mujica 的主唱兼吉他手:contentReference[oaicite:9]{index=9}，藝名 Doloris。她曾在偶像團體「sumimi」中擔任吉他手並負責作詞作曲:contentReference[oaicite:10]{index=10}。外表酷炫，平時喜歡仰望星空，性格相對冷靜。</p>
+  <a href="index.html" class="button">回到上一頁</a>
+</body>
+</html>
