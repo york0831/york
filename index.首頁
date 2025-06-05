@@ -1,0 +1,55 @@
+@@ -0,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>Ave Mujica 樂團官方網站</title>
+  <style>
+    body { background-color: #000; color: #fff; font-family: sans-serif; margin: 20px; }
+    h1, h2 { color: #880000; }
+    .members { display: flex; flex-wrap: wrap; justify-content: space-around; }
+    .member { margin: 15px; text-align: center; }
+    .member img { width: 200px; border: 3px solid #880000; }
+    .button { background-color: #880000; color: #fff; padding: 8px 12px; text-decoration: none; display: inline-block; border: none; margin-top: 5px; }
+    a.button:hover { background-color: #aa0000; }
+  </style>
+</head>
+<body>
+  <h1>Ave Mujica</h1>
+  <p>Ave Mujica 是《BanG Dream!》系列中的五人女子樂團。她們出道單曲為《黑色生日》（Black Birthday），音樂風格偏重重金屬/哥特金屬:contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}。</p>
+  <h2>成員介紹</h2>
+  <div class="members">
+    <div class="member">
+      <img src="images/uika.jpg" alt="三角初華">
+      <p>三角 初華 (Doloris)<br>主唱/吉他手</p>
+      <a href="uika.html" class="button">更多介紹</a>
+    </div>
+    <div class="member">
+      <img src="images/mutsumi.jpg" alt="若葉睦">
+      <p>若葉 睦 (Mortis)<br>節奏吉他手</p>
+      <a href="mutsumi.html" class="button">更多介紹</a>
+    </div>
+    <div class="member">
+      <img src="images/umiri.jpg" alt="八幡海鈴">
+      <p>八幡 海鈴 (Timoris)<br>貝斯手</p>
+      <a href="umiri.html" class="button">更多介紹</a>
+    </div>
+    <div class="member">
+      <img src="images/nyamu.jpg" alt="祐天寺若麥">
+      <p>祐天寺 若麥 (Amoris)<br>鼓手</p>
+      <a href="nyamu.html" class="button">更多介紹</a>
+    </div>
+    <div class="member">
+      <img src="images/sakiko.jpg" alt="豐川祥子">
+      <p>豐川 祥子 (Oblivionis)<br>鍵盤手</p>
+      <a href="sakiko.html" class="button">更多介紹</a>
+    </div>
+  </div>
+
+  <h2>音樂風格</h2>
+  <p>Ave Mujica 的作品音調黑暗厚重，官方將其定位為重金屬/哥特金屬樂團:contentReference[oaicite:8]{index=8}。代表歌曲除《黑色生日》外，還有《Futatsu no Tsuki ~Deep Into The Forest~》等。</p>
+
+  <h2>動畫連結</h2>
+  <p>動畫相關影片可見木棉花 YouTube 頻道：<a href="https://www.youtube.com/@MuseTW" target="_blank" class="button">木棉花 YouTube</a></p>
+</body>
+</html>
